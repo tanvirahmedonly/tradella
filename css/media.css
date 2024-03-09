@@ -1,0 +1,129 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+    /* header start */
+    header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    header .logo img {
+        height: 40px;
+    }
+    header .menu ul li a {
+        text-align: center;
+        padding: 15px 0px !important;
+    }
+    header .menu ul li a:hover {
+        text-underline-offset: 20px;
+    }
+    header .menu ul li a.active {
+        text-underline-offset: 20px;
+    }
+    header .btn_estimate {
+        margin: auto;
+        display: block;
+    }
+    /* header end */
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    header .logo img {
+        height: 40px;
+    }
+    header .menu ul li a {
+        text-align: center;
+        padding: 15px 0px !important;
+    }
+    header .menu ul li a:hover {
+        text-underline-offset: 20px;
+    }
+    header .menu ul li a.active {
+        text-underline-offset: 20px;
+    }
+    header .btn_estimate {
+        margin: auto;
+        display: block;
+    }
+    /* header end */
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    header .logo img {
+        height: 40px;
+    }
+    header .menu ul li a {
+        text-align: center;
+        padding: 15px 0px !important;
+    }
+    header .menu ul li a:hover {
+        text-underline-offset: 20px;
+    }
+    header .menu ul li a.active {
+        text-underline-offset: 20px;
+    }
+    header .btn_estimate {
+        margin: auto;
+        display: block;
+    }
+    /* header end */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* info header start */
+     .info_header {
+         padding-top: 15px;
+         padding-bottom: 15px;
+     }
+
+     /* info header end */
+     /* header start */
+     header {
+         padding-top: 12px;
+         padding-bottom: 12px;
+     }
+     header .logo img {
+         height: 50px;
+     }
+     header .menu ul li a {
+         padding: 0 15px !important;
+     }
+     header .menu ul li a:hover {
+         text-underline-offset: 30px;
+     }
+     header .menu ul li a.active {
+         text-underline-offset: 30px;
+     }
+     header .btn_estimate {
+         margin-left: 15px;
+     }
+     /* header end */
+
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+     /* info header start */
+     .info_header {
+         padding-top: 18px;
+         padding-bottom: 18px;
+     }
+
+     /* info header end */
+ }
+
+ /* Extra extra large devices (extra large desktops, 1400px and up) */
+ @media (min-width: 1400px) {}

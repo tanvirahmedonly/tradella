@@ -1,0 +1,75 @@
+TRADELLA
+
+@ SECTIONS  => 
+    info header, header, banner, features, why, parts, brands, action, footer
+
+@ COLORS    => 
+    #FFFFFF (primaryColor), #101010 (secondaryColor), #007DFF (accentOneLightColor), 
+    #004377 (accentOneRegularColor), #020E28 (accentOneDarkColor), 
+    #FDBE00 (accentTwoRegularColor)
+
+@ ICONS     =>  
+    <i class="fa-solid fa-phone-volume"></i>
+    <i class="fa-regular fa-envelope"></i>
+    <i class="fa-regular fa-location-dot"></i>
+    <i class="fa-brands fa-square-facebook"></i>
+    <i class="fa-brands fa-square-instagram"></i>
+    <i class="fa-brands fa-square-twitter"></i>
+    <i class="fa-brands fa-linkedin"></i>
+
+@ TEXT      =>
+    786-842-0320
+    sales@anncarequipment.com
+    HOME    ABOUT   BRANDS  PARTS   EQUIPMENT   CONTACT     Need Estimate?
+    GROW YOUR BUSINESS WITH ANNCAR
+    HIGH QUALITY HEAVY EQUIPMENT SPARE PARTS SUPPLIER
+    Fast Response
+    For most part requests, we answer within 1hr (standard quote response time less than 24hrs).
+    Large Availability
+    We offer a wide range of original/genuine and aftermarket parts for Komatsu®, JCB®, and Caterpillar®.
+    Worldwide Shipping
+    We offer a wide range of original/genuine and aftermarket parts for Komatsu®, JCB®, and Caterpillar®.
+    WHY ANNCAR
+    We have partnered with many suppliers and have the ability to acquire thousands of spare parts for your heavy machinery. By utilizing our large availability of genuine and aftermarket spare parts, and our extensive supplier network, you are sure to find the parts you need.
+    ENGINE PARTS
+    Anncar has an extensive coverage of Engine Replacement Parts for Komatsu®, JCB®, Caterpillar®, and other brands. We provide quality solutions to our customers needs and ensure optimum performance and durability in each specific application. LEARN MORE
+    GROUND ENGAGING TOOLS
+    The wear of Ground Engaging Tools (GET) results in high costs, down time and operational inefficiency. Choosing the right Ground Engaging Tools can make a big difference in your operation’s productivity and profitability. Anncar offers a wide range of quality Ground Engaging Tools for a variety of equipment manufactures like CATERPILLAR®, KOMATSU®, and JCB®. LEARN MORE
+    UNDERCARRIAGE PARTS
+    Undercarriage parts are usually the most expensive parts when it comes to the maintenance of your crawler equipment. This means you need it done correctly, quickly and at a competitive price. With the help of our experienced Sales Team, we can help you to find the right parts with the highest quality, and get them to you as quickly and economically as possible. LEARN MORE
+    MISC PARTS
+    Anncar has a wide range of JCB®, Komatsu®, and Caterpillar® miscellaneous repair and replacement parts. Since we only source from the best and most trusted names in the industry, you can rest assured that we have the right part at the right price and the quality you expect. LEARN MORE
+    We sell the top brands 
+    KOMATSU®
+    Anncar is proud to offer the largest selection of genuine and high quality aftermarket Komatsu® parts.
+    JCB®
+    Anncar offers a wide range of genuine and aftermarket parts to minimize the downtime of your machine.
+    CAT®
+    Buy genuine or aftermarket parts, engine parts and other common repair parts to avoid down time.
+    We have the part you need
+    We offer a vast selection of new aftermarket, rebuilt and used parts for Caterpillar®, Komatsu®, JCB® and other popular heavy equipment manufacturers.
+    Request Part
+    GROW WITH ANNCAR                              Get In Touch                              Useful Links                              Get Free Estimate
+    We are dedicated to the sales of heavy machinery spare parts for KOMATSU ®, JCB ®, and CATERPILLAR 
+    +1 786.842.0320
+    sales@anncarequipment.com
+    7275 NW 68th Street, Bay #9 Miami, FL 33166
+    Engine Parts
+    Ground Engaging Tools
+    Undercarriage Parts
+    Miscellaneous Parts
+    Fill out the form below and request a free and secure quote.
+    Request A Quote
+    Copyright ©tradella international 2020
+
+@ RESPONSIVENESS    =>
+                                    xsm             sm              md              lg              xl              xxl     
+    h1 (fs/lh - banner)                                                                                             64px/1.3                                      
+    h2 (fs/lh - why,parts,brands)                                                                                   35px/1.2                                                                                                          
+    h3 (fs/lh - features)                                                                                           30px/1.2                                      
+    h4 (fs/lh - footer,brands)                                                                                      20px/1.2                                      
+
+
+
+
+
