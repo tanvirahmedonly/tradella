@@ -84,32 +84,54 @@
 
      /* info header start */
      .info_header {
-         padding-top: 15px;
-         padding-bottom: 15px;
-     }
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
 
      /* info header end */
      /* header start */
      header {
-         padding-top: 12px;
-         padding-bottom: 12px;
+         padding-top: 10px;
+         padding-bottom: 10px;
      }
      header .logo img {
-         height: 50px;
+         height: 40px;
      }
      header .menu ul li a {
-         padding: 0 15px !important;
+         padding: 0 13px !important;
      }
      header .menu ul li a:hover {
-         text-underline-offset: 30px;
+         text-underline-offset: 25px;
      }
      header .menu ul li a.active {
-         text-underline-offset: 30px;
+         text-underline-offset: 25px;
      }
      header .btn_estimate {
-         margin-left: 15px;
+         margin-left: 13px;
      }
      /* header end */
+     /* banner start */
+     .banner {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+     .banner .b_left h1 {
+        font-size: 45px;
+    }
+    .banner .b_left p {
+        font-size: 22px;
+    }
+    .banner .b_right .carousel-indicators [data-bs-target] {
+        width: 5px;
+        height: 5px;
+        top: 15px;
+        position: relative;
+        border-radius: 50%;
+        border: 3px solid #FFFFFF;
+        background: transparent;
+    }
+     /* banner end */
 
  }
 
