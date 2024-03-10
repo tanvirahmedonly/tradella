@@ -132,6 +132,29 @@
         background: transparent;
     }
      /* banner end */
+     /* features start */
+     .features {
+        padding-top: 80px;
+    }
+    .features .f_content {
+        padding: 25px 25px 25px 35px;
+    }
+    .features .f_content .fc_image {
+        width: 60px;
+    }
+    .features .f_content .fc_image img {
+        margin-left: 12px;
+    }
+    .features .f_content .fc_text h3 {
+        font-size: 24px;
+    }
+     /* features end */
+     /* why start */
+     .why {
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+     /* why end */
 
  }
 

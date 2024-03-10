@@ -55,26 +55,26 @@
           <div class="collapse navbar-collapse menu" id="nsc">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">HOME</a>
+                <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">ABOUT</a>
+                <a class="nav-link" href="#banner">ABOUT</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">BRANDS</a>
+                <a class="nav-link" href="#brands">BRANDS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">PARTS</a>
+                <a class="nav-link" href="#parts">PARTS</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">EQUIPMENT</a>
+                <a class="nav-link" href="#features">EQUIPMENT</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">CONTACT</a>
+                <a class="nav-link" href="#action">CONTACT</a>
               </li>
             </ul>
             <!-- button -->
-            <a href="#" class="btn btn_estimate rounded-pill"><img src="./assets/images/homepage/header/tradella-international-header-button-icon.png" alt="Tradella International">Need Estimate?</a>
+            <a href="#footer" class="btn btn_estimate rounded-pill"><img src="./assets/images/homepage/header/tradella-international-header-button-icon.png" alt="Tradella International">Need Estimate?</a>
           </div>
         </div>
       </nav>
@@ -83,13 +83,13 @@
   </header>
   
   <!-- banner start -->
-  <section class="banner">
+  <section class="banner" id="banner">
     <div class="container-xl">
       <div class="row align-items-center">
         <div class="col-lg-6 col-12 order-lg-1 order-2">
           <div class="b_left">
             <h1><span class="bl_grow">GROW</span> YOUR BUSINESS <span class="bl_with">WITH ANNCAR</span></h1>
-            <p>HIGH QUALITY HEAVY EQUIPMENT SPARE PARTS SUPPLIER</p>
+            <p><span class="bl_text_animation">HIGH QUALITY HEAVY EQUIPMENT SPARE PARTS SUPPLIER</span></p>
           </div>
         </div>
         <div class="col-lg-6 col-12 order-lg-2 order-1">
@@ -119,7 +119,7 @@
   </section>
 
   <!-- features start -->
-  <section class="features">
+  <section class="features" id="features">
     <div class="container-xl">
       <div class="row">
         <!-- item start -->
@@ -181,7 +181,7 @@
   </section>
 
   <!-- why start -->
-  <section class="why">
+  <section class="why" id="why">
     <div class="container-xl">
       <div class="row align-items-center">
         <div class="col-lg-6">
@@ -201,7 +201,7 @@
   </section>
 
   <!-- parts start -->
-  <section class="parts">
+  <section class="parts" id="parts">
     <div class="container-xl">
       <div class="row">
         <!-- item start -->
@@ -253,7 +253,7 @@
   </section>
 
   <!-- brands start -->
-  <section class="brands">
+  <section class="brands" id="brands">
     <div class="container-xl">
       <div class="row align-items-center">
         <div class="col-lg-6">
@@ -296,7 +296,7 @@
   <!-- brands end -->
 
   <!-- action start -->
-  <section class="action d-lg-block d-none">
+  <section class="action d-lg-block d-none" id="action">
     <div class="container-xl">
       <div class="ac_wrap">
         <div class="row acw_row">
@@ -316,7 +316,7 @@
   </section>
 
   <!-- footer start -->
-  <footer>
+  <footer id="footer">
     <div class="container-xl">
       <!-- logo -->
       <div class="f_image text-center">
@@ -380,7 +380,9 @@
 
 
   <!-- JS links -->
+  <script src="./vendors/jquery/jquery-3.6.1.min.js"></script>
   <script src="./vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="./js/components/wordflick.js"></script>
   <script src="./js/script.js"></script>
 </body>
 

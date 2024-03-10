@@ -130,6 +130,7 @@ header .navbar-toggler:focus {
     color: #FFFFFF;
     font-size: 30px;
     line-height: 1.2;
+    text-transform: uppercase;
 }
 .banner .b_right {
     text-align: right;
