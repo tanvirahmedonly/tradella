@@ -20,6 +20,9 @@ body {
     color: #101010;
     line-height: 1.5;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: Poppins-Bold, Verdana, sans-serif;
+}
 /* common end */
 /* info header start */
 .info_header {
@@ -47,7 +50,7 @@ body {
 /* info header end */
 /* header start */
 header {
-    font-family: Poppins-Bold;
+    font-family: Poppins-Bold, Verdana, sans-serif;
     color: #020E28;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -115,7 +118,6 @@ header .navbar-toggler:focus {
     padding-right: 100px;
 }
 .banner .b_left h1 {
-    font-family: Poppins-Bold;
     font-size: 64px;
     color: #FFFFFF;
     line-height: 1.2;
@@ -189,7 +191,6 @@ header .navbar-toggler:focus {
 .why .w_image img {}
 .why .w_text {}
 .why .w_text h2 {
-    font-family: Poppins-Bold;
     font-size: 35px;
     color: #004377;
     line-height: 1.2;
@@ -221,7 +222,7 @@ header .navbar-toggler:focus {
     max-height: 60px;
 }
 .parts .p_single .ps_text h2 {
-    font-family: Poppins-Bold;
+    font-family: Poppins-Bold, Verdana, sans-serif;
     font-size: 35px;
     color: #FDBE00;
     margin-top: 10px;
@@ -259,7 +260,6 @@ header .navbar-toggler:focus {
 }
 .brands .br_text {}
 .brands .br_text h2 {
-    font-family: Poppins-Bold;
     font-size: 35px;
     color: #FDBE00;
     text-transform: uppercase;
@@ -280,7 +280,6 @@ header .navbar-toggler:focus {
     padding-bottom: 40px;
 }
 .brands .br_text .brt_single h4 {
-    font-family: Poppins-Bold;
     font-size: 20px;
     line-height: 1.2;
 }
@@ -309,7 +308,6 @@ header .navbar-toggler:focus {
 }
 .action .ac_wrap .acw_content h2 {
     text-transform: uppercase;
-    font-family: Poppins-Bold;
     font-size: 35px;
     color: #FDBE00;
     line-height: 1.2;
@@ -351,7 +349,6 @@ footer .f_single {
     padding-top: 40px;
 }
 footer .f_single h4 {
-    font-family: Poppins-Bold;
     font-size: 20px;
     line-height: 1.2;
 }
