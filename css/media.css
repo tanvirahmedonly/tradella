@@ -30,6 +30,165 @@
      }
 
      /* header end */
+     /* banner start */
+     .banner {
+         padding-top: 0px;
+         padding-bottom: 20px;
+     }
+
+     .banner .b_left {
+         padding-top: 20px;
+         padding-left: 0px;
+         padding-right: 0px;
+         padding-bottom: 30px;
+         text-align: center;
+     }
+
+     .banner .b_left h1 {
+         font-size: 30px;
+     }
+
+     .banner .b_left p {
+         font-size: 18px;
+     }
+
+     .banner .b_right img {
+         height: auto;
+         width: 400px;
+         margin: auto !important;
+     }
+
+     .banner .b_right .carousel-indicators [data-bs-target] {
+         top: 15px;
+     }
+
+     /* banner end */
+     /* features start */
+     .features {
+         padding-top: 60px;
+     }
+
+     .features .f_content {
+         padding: 25px 25px 25px 35px;
+         margin-top: 5px;
+     }
+
+     .features .f_content .fc_image {
+         width: 60px;
+     }
+
+     .features .f_content .fc_image img {
+         margin-left: 12px;
+     }
+
+     .features .f_content .fc_text h3 {
+         font-size: 24px;
+     }
+
+     /* features end */
+     /* why start */
+     .why {
+         padding-top: 45px;
+         padding-bottom: 60px;
+         text-align: center;
+     }
+
+     .why .w_text h2 {
+         font-size: 22px;
+         margin-top: 30px;
+     }
+
+     .why .w_text span {
+         margin: auto !important;
+     }
+
+     .why .w_text p {
+         padding-top: 20px;
+     }
+
+     /* why end */
+     /* parts start */
+     .parts .p_single {
+         text-align: center;
+     }
+
+     .parts .p_single img {
+         max-height: 40px;
+     }
+
+     .parts .p_single .ps_text h2 {
+         font-size: 24px;
+     }
+
+     .parts .p_single .ps_text span {
+         margin: auto !important;
+     }
+
+     .parts .p_single .ps_text p {
+         padding-right: 0px;
+         padding-top: 20px;
+     }
+
+     /* parts end */
+     /* brands start */
+     .brands .br_text h2 {
+         font-size: 24px;
+     }
+
+     .brands .br_text .brt_single h4 {
+         font-size: 18px;
+     }
+
+     .brands .br_image {
+         margin-bottom: 30px;
+     }
+
+     /* brands end */
+     /* action start */
+     .action {
+         min-height: 450px;
+     }
+
+     .action .ac_wrap .acw_content {
+         padding: 30px 40px;
+         top: -260px;
+         left: 260px;
+     }
+
+     .action .ac_wrap .acw_content h2 {
+         font-size: 24px;
+     }
+
+     /* action end */
+     /* footer start */
+     footer .f_image {
+         padding-top: 30px;
+     }
+
+     footer .f_image img {
+         width: 100px;
+     }
+
+     footer .f_single {
+         padding-top: 30px;
+     }
+
+     footer .f_single h4 {
+         font-size: 18px;
+     }
+
+     footer .f_single .fs_contact {
+         font-size: 13px;
+     }
+
+     /* footer end */
+     /* copyright start */
+     .copyright {
+         padding-top: 15px;
+         padding-bottom: 15px;
+     }
+
+     /* copyright end */
  }
 
  /* Small devices (landscape phones, 576px and up) */
@@ -64,6 +223,165 @@
      }
 
      /* header end */
+     /* banner start */
+     .banner {
+         padding-top: 0px;
+         padding-bottom: 20px;
+     }
+
+     .banner .b_left {
+         padding-top: 20px;
+         padding-left: 110px;
+         padding-right: 110px;
+         padding-bottom: 30px;
+         text-align: center;
+     }
+
+     .banner .b_left h1 {
+         font-size: 30px;
+     }
+
+     .banner .b_left p {
+         font-size: 18px;
+     }
+
+     .banner .b_right img {
+         height: auto;
+         width: 400px;
+         margin: auto !important;
+     }
+
+     .banner .b_right .carousel-indicators [data-bs-target] {
+         top: 15px;
+     }
+
+     /* banner end */
+     /* features start */
+     .features {
+         padding-top: 60px;
+     }
+
+     .features .f_content {
+         padding: 25px 25px 25px 35px;
+         margin-top: 5px;
+     }
+
+     .features .f_content .fc_image {
+         width: 60px;
+     }
+
+     .features .f_content .fc_image img {
+         margin-left: 12px;
+     }
+
+     .features .f_content .fc_text h3 {
+         font-size: 24px;
+     }
+
+     /* features end */
+     /* why start */
+     .why {
+         padding-top: 45px;
+         padding-bottom: 60px;
+         text-align: center;
+     }
+
+     .why .w_text h2 {
+         font-size: 22px;
+         margin-top: 30px;
+     }
+
+     .why .w_text span {
+         margin: auto !important;
+     }
+
+     .why .w_text p {
+         padding-top: 20px;
+     }
+
+     /* why end */
+     /* parts start */
+     .parts .p_single {
+         text-align: center;
+     }
+
+     .parts .p_single img {
+         max-height: 40px;
+     }
+
+     .parts .p_single .ps_text h2 {
+         font-size: 24px;
+     }
+
+     .parts .p_single .ps_text span {
+         margin: auto !important;
+     }
+
+     .parts .p_single .ps_text p {
+         padding-right: 50px;
+         padding-top: 20px;
+     }
+
+     /* parts end */
+     /* brands start */
+     .brands .br_text h2 {
+         font-size: 24px;
+     }
+
+     .brands .br_text .brt_single h4 {
+         font-size: 18px;
+     }
+
+     .brands .br_image {
+         margin-bottom: 30px;
+     }
+
+     /* brands end */
+     /* action start */
+     .action {
+         min-height: 450px;
+     }
+
+     .action .ac_wrap .acw_content {
+         padding: 30px 40px;
+         top: -260px;
+         left: 260px;
+     }
+
+     .action .ac_wrap .acw_content h2 {
+         font-size: 24px;
+     }
+
+     /* action end */
+     /* footer start */
+     footer .f_image {
+         padding-top: 30px;
+     }
+
+     footer .f_image img {
+         width: 100px;
+     }
+
+     footer .f_single {
+         padding-top: 30px;
+     }
+
+     footer .f_single h4 {
+         font-size: 18px;
+     }
+
+     footer .f_single .fs_contact {
+         font-size: 13px;
+     }
+
+     /* footer end */
+     /* copyright start */
+     .copyright {
+         padding-top: 15px;
+         padding-bottom: 15px;
+     }
+
+     /* copyright end */
  }
 
  /* Medium devices (tablets, 768px and up) */
@@ -98,6 +416,168 @@
      }
 
      /* header end */
+     /* banner start */
+     .banner {
+         padding-top: 0px;
+         padding-bottom: 20px;
+     }
+
+     .banner .b_left {
+         padding-top: 20px;
+         padding-left: 110px;
+         padding-right: 110px;
+         padding-bottom: 30px;
+         text-align: center;
+     }
+
+     .banner .b_left h1 {
+         font-size: 30px;
+     }
+
+     .banner .b_left p {
+         font-size: 18px;
+     }
+
+     .banner .b_right img {
+         height: auto;
+         width: 400px;
+         margin: auto !important;
+     }
+
+     .banner .b_right .carousel-indicators [data-bs-target] {
+         top: 15px;
+     }
+
+     /* banner end */
+     /* features start */
+     .features {
+         padding-top: 60px;
+     }
+
+     .features .f_content {
+         padding: 25px 25px 25px 35px;
+     }
+
+     .features .fc_third {
+         margin-top: 5px;
+     }
+
+     .features .f_content .fc_image {
+         width: 60px;
+     }
+
+     .features .f_content .fc_image img {
+         margin-left: 12px;
+     }
+
+     .features .f_content .fc_text h3 {
+         font-size: 24px;
+     }
+
+     /* features end */
+     /* why start */
+     .why {
+         padding-top: 45px;
+         padding-bottom: 60px;
+         text-align: center;
+     }
+
+     .why .w_text h2 {
+         font-size: 22px;
+         margin-top: 30px;
+     }
+
+     .why .w_text span {
+         margin: auto !important;
+     }
+
+     .why .w_text p {
+         padding-top: 20px;
+     }
+
+     /* why end */
+     /* parts start */
+     .parts .p_single {
+         text-align: center;
+     }
+
+     .parts .p_single img {
+         max-height: 40px;
+     }
+
+     .parts .p_single .ps_text h2 {
+         font-size: 24px;
+     }
+
+     .parts .p_single .ps_text span {
+         margin: auto !important;
+     }
+
+     .parts .p_single .ps_text p {
+         padding-right: 50px;
+         padding-top: 20px;
+     }
+
+     /* parts end */
+     /* brands start */
+     .brands .br_text h2 {
+         font-size: 24px;
+     }
+
+     .brands .br_text .brt_single h4 {
+         font-size: 18px;
+     }
+
+     .brands .br_image {
+         margin-bottom: 30px;
+     }
+
+     /* brands end */
+     /* action start */
+     .action {
+         min-height: 450px;
+     }
+
+     .action .ac_wrap .acw_content {
+         padding: 30px 40px;
+         top: -260px;
+         left: 260px;
+     }
+
+     .action .ac_wrap .acw_content h2 {
+         font-size: 24px;
+     }
+
+     /* action end */
+     /* footer start */
+     footer .f_image {
+         padding-top: 30px;
+     }
+
+     footer .f_image img {
+         width: 100px;
+     }
+
+     footer .f_single {
+         padding-top: 30px;
+     }
+
+     footer .f_single h4 {
+         font-size: 18px;
+     }
+
+     footer .f_single .fs_contact {
+         font-size: 13px;
+     }
+
+     /* footer end */
+     /* copyright start */
+     .copyright {
+         padding-top: 15px;
+         padding-bottom: 15px;
+     }
+
+     /* copyright end */
  }
 
  /* Large devices (desktops, 992px and up) */
@@ -156,10 +636,7 @@
          width: 5px;
          height: 5px;
          top: 15px;
-         position: relative;
-         border-radius: 50%;
          border: 3px solid #FFFFFF;
-         background: transparent;
      }
 
      /* banner end */
@@ -228,48 +705,46 @@
      .action {
          min-height: 450px;
      }
+
      .action .ac_wrap .acw_content {
          padding: 30px 40px;
          top: -260px;
          left: 260px;
      }
+
      .action .ac_wrap .acw_content h2 {
          font-size: 24px;
      }
+
      /* action end */
      /* footer start */
      footer .f_image {
-        padding-top: 30px;
-    }
+         padding-top: 30px;
+     }
+
      footer .f_image img {
-        width: 100px;
-    }
-    footer .f_single {
-        padding-top: 30px;
-    }
-    footer .f_single h4 {
-        font-size: 18px;
-    }
-    footer .f_single .fs_contact {
-        font-size: 13px;
-    }
-    footer .f_single .fs_contact a {
-        text-decoration: none;
-        color: #FFFFFF !important;
-        transition: 0.3s;
-    }
-    footer .f_single .fs_contact a:hover {
-        color: #FDBE00 !important;
-    }
+         width: 100px;
+     }
+
+     footer .f_single {
+         padding-top: 30px;
+     }
+
+     footer .f_single h4 {
+         font-size: 18px;
+     }
+
+     footer .f_single .fs_contact {
+         font-size: 13px;
+     }
+
      /* footer end */
      /* copyright start */
      .copyright {
-        padding-top: 15px;
-        padding-bottom: 15px;
-    }
-    .copyright p {
-        letter-spacing: 1px;
-    }
+         padding-top: 15px;
+         padding-bottom: 15px;
+     }
+
      /* copyright end */
 
  }
