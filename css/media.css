@@ -1,82 +1,103 @@
  /* Extra small devices (portrait phones, less than 576px) */
  @media (max-width: 575.98px) {
-    /* header start */
-    header {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    header .logo img {
-        height: 40px;
-    }
-    header .menu ul li a {
-        text-align: center;
-        padding: 15px 0px !important;
-    }
-    header .menu ul li a:hover {
-        text-underline-offset: 20px;
-    }
-    header .menu ul li a.active {
-        text-underline-offset: 20px;
-    }
-    header .btn_estimate {
-        margin: auto;
-        display: block;
-    }
-    /* header end */
+
+     /* header start */
+     header {
+         padding-top: 10px;
+         padding-bottom: 10px;
+     }
+
+     header .logo img {
+         height: 40px;
+     }
+
+     header .menu ul li a {
+         text-align: center;
+         padding: 15px 0px !important;
+     }
+
+     header .menu ul li a:hover {
+         text-underline-offset: 20px;
+     }
+
+     header .menu ul li a.active {
+         text-underline-offset: 20px;
+     }
+
+     header .btn_estimate {
+         margin: auto;
+         display: block;
+     }
+
+     /* header end */
  }
 
  /* Small devices (landscape phones, 576px and up) */
  @media (min-width: 576px) and (max-width: 767.98px) {
-    /* header start */
-    header {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    header .logo img {
-        height: 40px;
-    }
-    header .menu ul li a {
-        text-align: center;
-        padding: 15px 0px !important;
-    }
-    header .menu ul li a:hover {
-        text-underline-offset: 20px;
-    }
-    header .menu ul li a.active {
-        text-underline-offset: 20px;
-    }
-    header .btn_estimate {
-        margin: auto;
-        display: block;
-    }
-    /* header end */
+
+     /* header start */
+     header {
+         padding-top: 10px;
+         padding-bottom: 10px;
+     }
+
+     header .logo img {
+         height: 40px;
+     }
+
+     header .menu ul li a {
+         text-align: center;
+         padding: 15px 0px !important;
+     }
+
+     header .menu ul li a:hover {
+         text-underline-offset: 20px;
+     }
+
+     header .menu ul li a.active {
+         text-underline-offset: 20px;
+     }
+
+     header .btn_estimate {
+         margin: auto;
+         display: block;
+     }
+
+     /* header end */
  }
 
  /* Medium devices (tablets, 768px and up) */
  @media (min-width: 768px) and (max-width: 991.98px) {
-    /* header start */
-    header {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    header .logo img {
-        height: 40px;
-    }
-    header .menu ul li a {
-        text-align: center;
-        padding: 15px 0px !important;
-    }
-    header .menu ul li a:hover {
-        text-underline-offset: 20px;
-    }
-    header .menu ul li a.active {
-        text-underline-offset: 20px;
-    }
-    header .btn_estimate {
-        margin: auto;
-        display: block;
-    }
-    /* header end */
+
+     /* header start */
+     header {
+         padding-top: 10px;
+         padding-bottom: 10px;
+     }
+
+     header .logo img {
+         height: 40px;
+     }
+
+     header .menu ul li a {
+         text-align: center;
+         padding: 15px 0px !important;
+     }
+
+     header .menu ul li a:hover {
+         text-underline-offset: 20px;
+     }
+
+     header .menu ul li a.active {
+         text-underline-offset: 20px;
+     }
+
+     header .btn_estimate {
+         margin: auto;
+         display: block;
+     }
+
+     /* header end */
  }
 
  /* Large devices (desktops, 992px and up) */
@@ -84,10 +105,10 @@
 
      /* info header start */
      .info_header {
-        padding-top: 10px;
-        padding-bottom: 10px;
-        font-size: 14px;
-    }
+         padding-top: 10px;
+         padding-bottom: 10px;
+         font-size: 14px;
+     }
 
      /* info header end */
      /* header start */
@@ -95,66 +116,161 @@
          padding-top: 10px;
          padding-bottom: 10px;
      }
+
      header .logo img {
          height: 40px;
      }
+
      header .menu ul li a {
          padding: 0 13px !important;
      }
+
      header .menu ul li a:hover {
          text-underline-offset: 25px;
      }
+
      header .menu ul li a.active {
          text-underline-offset: 25px;
      }
+
      header .btn_estimate {
          margin-left: 13px;
      }
+
      /* header end */
      /* banner start */
      .banner {
-        padding-top: 0px;
-        padding-bottom: 20px;
-    }
+         padding-top: 0px;
+         padding-bottom: 20px;
+     }
+
      .banner .b_left h1 {
-        font-size: 45px;
-    }
-    .banner .b_left p {
-        font-size: 22px;
-    }
-    .banner .b_right .carousel-indicators [data-bs-target] {
-        width: 5px;
-        height: 5px;
-        top: 15px;
-        position: relative;
-        border-radius: 50%;
-        border: 3px solid #FFFFFF;
-        background: transparent;
-    }
+         font-size: 45px;
+     }
+
+     .banner .b_left p {
+         font-size: 22px;
+     }
+
+     .banner .b_right .carousel-indicators [data-bs-target] {
+         width: 5px;
+         height: 5px;
+         top: 15px;
+         position: relative;
+         border-radius: 50%;
+         border: 3px solid #FFFFFF;
+         background: transparent;
+     }
+
      /* banner end */
      /* features start */
      .features {
-        padding-top: 80px;
-    }
-    .features .f_content {
-        padding: 25px 25px 25px 35px;
-    }
-    .features .f_content .fc_image {
-        width: 60px;
-    }
-    .features .f_content .fc_image img {
-        margin-left: 12px;
-    }
-    .features .f_content .fc_text h3 {
-        font-size: 24px;
-    }
+         padding-top: 80px;
+     }
+
+     .features .f_content {
+         padding: 25px 25px 25px 35px;
+     }
+
+     .features .f_content .fc_image {
+         width: 60px;
+     }
+
+     .features .f_content .fc_image img {
+         margin-left: 12px;
+     }
+
+     .features .f_content .fc_text h3 {
+         font-size: 24px;
+     }
+
      /* features end */
      /* why start */
      .why {
-        padding-top: 45px;
-        padding-bottom: 60px;
-    }
+         padding-top: 45px;
+         padding-bottom: 60px;
+     }
+
+     .why .w_text h2 {
+         font-size: 22px;
+     }
+
      /* why end */
+     /* parts start */
+     .parts .p_single img {
+         max-height: 40px;
+     }
+
+     .parts .p_single .ps_text h2 {
+         font-size: 24px;
+     }
+
+     .parts .p_single .ps_text span {
+         margin-bottom: 10px;
+     }
+
+     .parts .p_single .ps_text p {
+         padding-right: 50px;
+     }
+
+     /* parts end */
+     /* brands start */
+     .brands .br_text h2 {
+         font-size: 24px;
+     }
+
+     .brands .br_text .brt_single h4 {
+         font-size: 18px;
+     }
+
+     /* brands end */
+     /* action start */
+     .action {
+         min-height: 450px;
+     }
+     .action .ac_wrap .acw_content {
+         padding: 30px 40px;
+         top: -260px;
+         left: 260px;
+     }
+     .action .ac_wrap .acw_content h2 {
+         font-size: 24px;
+     }
+     /* action end */
+     /* footer start */
+     footer .f_image {
+        padding-top: 30px;
+    }
+     footer .f_image img {
+        width: 100px;
+    }
+    footer .f_single {
+        padding-top: 30px;
+    }
+    footer .f_single h4 {
+        font-size: 18px;
+    }
+    footer .f_single .fs_contact {
+        font-size: 13px;
+    }
+    footer .f_single .fs_contact a {
+        text-decoration: none;
+        color: #FFFFFF !important;
+        transition: 0.3s;
+    }
+    footer .f_single .fs_contact a:hover {
+        color: #FDBE00 !important;
+    }
+     /* footer end */
+     /* copyright start */
+     .copyright {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .copyright p {
+        letter-spacing: 1px;
+    }
+     /* copyright end */
 
  }
 

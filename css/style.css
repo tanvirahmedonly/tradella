@@ -243,6 +243,14 @@ header .navbar-toggler:focus {
     color: #FFFFFF;
     padding-right: 150px;
 }
+.parts .p_single .ps_text p a {
+    color: #FFFFFF !important;
+    text-underline-offset: 3px;
+    font-size: 14px;
+}
+.parts .p_single .ps_text p a:hover {
+    text-decoration: none;
+}
 /* parts end */
 /* brands start */
 .brands {
@@ -322,6 +330,9 @@ header .navbar-toggler:focus {
     padding: 5px 10px;
     text-transform: uppercase;
 }
+.action .ac_wrap .acw_content a:hover {
+    background: #004377;
+}
 /* action end */
 /* footer start */
 footer {
@@ -332,6 +343,7 @@ footer .f_image {
     padding-top: 40px;
 }
 footer .f_image {}
+
 footer .main {
     padding-bottom: 20px;
 }
